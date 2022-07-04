@@ -1,0 +1,145 @@
+#title{
+  background-color: #222831;
+}
+
+/*Navbar*/
+
+.container-fluid{
+  padding: 3% 15% 4%;
+}
+
+.navbar{
+    padding: 0 0 4px;
+}
+
+.navbar-brand::first-letter{
+  font-size: 200%;
+  font-weight: bold;
+}
+
+.navbar-brand{
+  font-size: 25px;
+  font-family: 'Carter One', cursive;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+
+.nav-link{
+  font-size: 1.2rem;
+  font-family: 'Patrick Hand' , cursive;
+}
+
+/*title-page*/
+
+#ride{
+  background-image: url('images/ride.png');
+  background-size: auto;
+  height: 700px;
+}
+
+em{
+  text-align: center;
+  position: absolute;
+  right: 240px;
+  bottom: 130px;
+  font-size: 40px;
+  font-family: 'Lato', sans-serif;
+  color: #303a40;
+}
+
+.heaven{
+  text-align: center;
+  position: absolute;
+  right: 240px;
+  bottom: 180px;
+  font-size: 60px;
+  color: #303a40;
+  border-style: solid;
+  border-radius: 20px;
+  border-width: 8px;
+  border-color: #a58270;
+  font-family: 'Carter One', cursive;
+}
+
+/*package details*/
+
+#Packages{
+  background-color: #393E46;
+  padding: 50px;
+  text-align: center;
+  padding-left: 120px;
+}
+
+.details{
+  padding-bottom: 70px;
+  font-size: 50px;
+  padding-right: 80px;
+  color: #fff;
+  font-family: 'Permanent Marker' , cursive;
+}
+
+.card-img-top{
+  width: 80%;
+}
+
+.card-text{
+  font-weight: bold;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.list-group-item{
+  font-weight: bold;
+  font-family: 'Open Sans', sans-serif;
+}
+/*site view*/
+
+#site{
+  background-color: #52616B;
+  padding: 50px 50px;
+}
+
+.maps{
+  font-size: 50px;
+  text-align: center;
+  padding-bottom: 50px;
+  color: #fff;
+  font-family: 'Pacifico' ,cursive;
+}
+
+.heading{
+  color: #fff;
+  text-align: center;
+  color: #222831;
+  font-weight: bold;
+  font-family: 'Kanit' , sans-serif;
+}
+
+.para{
+  color: #fff;
+  text-align: center;
+  font-size: 18px;
+  font-family: 'Nunito Sans' , sans-serif;
+}
+
+.img{
+  width: 250px;
+  padding-left: 50px;
+}
+
+.row{
+  padding-top: 50px;
+}
+
+/*contact details*/
+
+#contact{
+  background-color: #EEEEEE;
+  padding: 5% 15%;
+  text-align: center;
+}
+
+.social-icon{
+  margin: 20px 10px;
+}
